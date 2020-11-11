@@ -1,6 +1,4 @@
 {
-    "AusnahmeListe": [],
-    "AutoWriteActive": false,
     "IndexListe": [
         {
             "Index": "\"&\" (UND-Verknüpfung) bzw. \"#\"",
@@ -91427,7 +91425,5 @@
             "UeberSetzung": "&Abort"
         }
     ],
-    "KonfigName": "AutoSprachKonfig",
-    "LastUpdate": 1604573099,
     "SprachKonfigType": 1
 }
